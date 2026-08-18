@@ -42,7 +42,7 @@ I study emergent behaviors in large language models and build end-to-end systems
 
 ## 📄 Resume & Portfolio
 
-* Portfolio: **[https://sanjayd.org](https://sanjayd.org)**
+* Portfolio: **[https://sanjay0.com](https://sanjay0.com)**
 * Email: **[sanjayd3028@gmail.com](mailto:sanjayd3028@gmail.com)**
 * Phone: **+1 (475) 301 8229**
 
